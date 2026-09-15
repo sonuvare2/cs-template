@@ -30,14 +30,39 @@
     "poster": "https://upload.wikimedia.org/wikipedia/tr/d/d6/Türk_Voleybol_Federasyonu.png"
   },
   {
-    "icerik_ismi": "🏆 CANLI SPOR - Tenis Şampiyonası",
-    "link": "https://www.tennisfederation.com.tr/",
-    "poster": "https://upload.wikimedia.org/wikipedia/tr/tennis_logo.png"
+    "icerik_ismi": "📺 🎯 BeIN SPORTS 1 - Spor",
+    "link": "https://www.beinsports.com.tr/canli/bein-sports-1",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/0/05/BeIN_SPORTS_TURKEY_LOGO.png"
   },
   {
-    "icerik_ismi": "🏆 CANLI SPOR - Futsal",
-    "link": "https://www.futsal.org.tr/",
-    "poster": "https://upload.wikimedia.org/wikipedia/tr/futsal_logo.png"
+    "icerik_ismi": "📺 🎯 BeIN SPORTS 2 - Futbol",
+    "link": "https://www.beinsports.com.tr/canli/bein-sports-2",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/0/05/BeIN_SPORTS_TURKEY_LOGO.png"
+  },
+  {
+    "icerik_ismi": "📺 🎯 BeIN SPORTS 3 - Basketbol",
+    "link": "https://www.beinsports.com.tr/canli/bein-sports-3",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/0/05/BeIN_SPORTS_TURKEY_LOGO.png"
+  },
+  {
+    "icerik_ismi": "📺 🎯 BeIN SPORTS 4 - Tenis",
+    "link": "https://www.beinsports.com.tr/canli/bein-sports-4",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/0/05/BeIN_SPORTS_TURKEY_LOGO.png"
+  },
+  {
+    "icerik_ismi": "📺 🎯 BeIN SPORTS Max 1 - Premium",
+    "link": "https://www.beinsports.com.tr/canli/bein-sports-max-1",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/0/05/BeIN_SPORTS_TURKEY_LOGO.png"
+  },
+  {
+    "icerik_ismi": "📺 🎯 BeIN SPORTS Max 2 - Premium",
+    "link": "https://www.beinsports.com.tr/canli/bein-sports-max-2",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/0/05/BeIN_SPORTS_TURKEY_LOGO.png"
+  },
+  {
+    "icerik_ismi": "📺 🎯 BeIN SPORTS Max 3 - Premium",
+    "link": "https://www.beinsports.com.tr/canli/bein-sports-max-3",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/0/05/BeIN_SPORTS_TURKEY_LOGO.png"
   },
   {
     "icerik_ismi": "📺 TRT 1 - Ulusal Kanal",
@@ -108,11 +133,6 @@
     "icerik_ismi": "📺 Ekstra Spor - Spor Kanalı",
     "link": "https://www.ekstratv.com.tr/",
     "poster": "https://upload.wikimedia.org/wikipedia/tr/f/f9/EkstraTV.png"
-  },
-  {
-    "icerik_ismi": "📺 BeIN Sports Türk - Spor",
-    "link": "https://www.beinsports.com.tr/",
-    "poster": "https://upload.wikimedia.org/wikipedia/tr/0/05/BeIN_SPORTS_TURKEY_LOGO.png"
   },
   {
     "icerik_ismi": "📺 D Smart - Kablolu TV",
