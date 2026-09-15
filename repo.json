@@ -1,9 +1,6 @@
 {
-  "iconUrl": "https://raw.githubusercontent.com/sonuvare2/cs-template/refs/heads/main/.github/icons/logo/kraptorfavicon.png",
-  "name": "CloudStream Repository Template | @sonuvare2",
-  "description": "Kraptor Tabanlı CloudStream Reposu",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/sonuvare2/cs-template/refs/heads/builds/plugins.json"
-  ]
+  "name": "Sonuvar CloudStream Reposu",
+  "icon": "https://raw.githubusercontent.com/sonuvare2/cs-template/refs/heads/main/icon.png",
+  "description": "Canlı spor, ulusal kanallar ve özel içerik deposu.",
+  "manifestUrl": "https://raw.githubusercontent.com/sonuvare2/cs-template/refs/heads/main/plugins.json"
 }
