@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Canlı Kanallar ve Spor",
+    "description": "Ulusal kanallar ve beIN Sports yayın listesi",
+    "authors": ["Sonuvar"],
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/sonuvare2/cs-template/refs/heads/main/giniko.json",
+    "iconUrl": "https://raw.githubusercontent.com/sonuvare2/cs-template/refs/heads/main/icon.png",
+    "language": "tr",
+    "type": 0
+  }
+]
