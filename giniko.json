@@ -1,1 +1,432 @@
-[]
+[
+  {
+    "icerik_ismi": "🏆 CANLI SPOR - Beşiktaş JK",
+    "link": "https://www.besiktas.com.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/c/c6/Beşiktaş_JK_logo.png"
+  },
+  {
+    "icerik_ismi": "🏆 CANLI SPOR - Galatasaray SK",
+    "link": "https://www.galatasaray.org/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/8/83/Galatasaray_Spor_Kulübü_logo.png"
+  },
+  {
+    "icerik_ismi": "🏆 CANLI SPOR - Fenerbahçe SK",
+    "link": "https://www.fenerbahce.org/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/2/2b/Fenerbahçe_SK_logo.png"
+  },
+  {
+    "icerik_ismi": "🏆 CANLI SPOR - Trabzonspor",
+    "link": "https://www.trabzonspor.org.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/a/ab/Trabzonspor_logo.png"
+  },
+  {
+    "icerik_ismi": "🏆 CANLI SPOR - Basketbol",
+    "link": "https://www.tjf.org.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/e/e9/Türkiye_Basketbol_Federasyonu_Logo.png"
+  },
+  {
+    "icerik_ismi": "🏆 CANLI SPOR - Voleybol",
+    "link": "https://www.tvf.org.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/d/d6/Türk_Voleybol_Federasyonu.png"
+  },
+  {
+    "icerik_ismi": "🏆 CANLI SPOR - Tenis Şampiyonası",
+    "link": "https://www.tennisfederation.com.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/tennis_logo.png"
+  },
+  {
+    "icerik_ismi": "🏆 CANLI SPOR - Futsal",
+    "link": "https://www.futsal.org.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/futsal_logo.png"
+  },
+  {
+    "icerik_ismi": "📺 TRT 1 - Ulusal Kanal",
+    "link": "https://www.trt.net.tr/tv/canli/trt-1",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/3/35/TRT_1_2016.png"
+  },
+  {
+    "icerik_ismi": "📺 TRT 2 - Ulusal Kanal",
+    "link": "https://www.trt.net.tr/tv/canli/trt-2",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/2/2f/TRT_2_2016.png"
+  },
+  {
+    "icerik_ismi": "📺 TRT Belgesel - Belgesel Kanalı",
+    "link": "https://www.trt.net.tr/tv/canli/trt-belgesel",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/trt_belgesel.png"
+  },
+  {
+    "icerik_ismi": "📺 TRT Çocuk - Çocuk Kanalı",
+    "link": "https://www.trt.net.tr/tv/canli/trt-cocuk",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/trt_cocuk.png"
+  },
+  {
+    "icerik_ismi": "📺 Show TV - Ulusal Kanal",
+    "link": "https://www.showtv.com.tr/canli",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/5/56/ShowTV_2012_logo.png"
+  },
+  {
+    "icerik_ismi": "📺 Kanal D - Ulusal Kanal",
+    "link": "https://www.kanald.com.tr/canli",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png"
+  },
+  {
+    "icerik_ismi": "📺 ATV - Ulusal Kanal",
+    "link": "https://www.atv.com.tr/canli",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/4/47/ATV_2011_logo.png"
+  },
+  {
+    "icerik_ismi": "📺 FOX Türkiye - Ulusal Kanal",
+    "link": "https://www.foxtv.com.tr/canli",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/a/ac/FOX_Türkiye_logo.png"
+  },
+  {
+    "icerik_ismi": "📺 Star TV - Ulusal Kanal",
+    "link": "https://www.startv.com.tr/canli",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/startv_logo.png"
+  },
+  {
+    "icerik_ismi": "📺 NTV - Haberci Kanal",
+    "link": "https://www.ntv.com.tr/canli",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/4/4e/NTV_Türkiye_logo.png"
+  },
+  {
+    "icerik_ismi": "📺 CNN Türk - Haber Kanalı",
+    "link": "https://www.cnnturk.com/canli",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/CNN_Turk.svg/200px-CNN_Turk.svg.png"
+  },
+  {
+    "icerik_ismi": "📺 Haber Türk - Haber Kanalı",
+    "link": "https://www.haberturk.com/canli",
+    "poster": "https://pbs.twimg.com/profile_images/1445282371/haber_turk_logo_400x400.jpg"
+  },
+  {
+    "icerik_ismi": "📺 Sky Türk - Spor Kanalı",
+    "link": "https://www.skyturk.com.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/7/70/Sky_Türk_Logo.png"
+  },
+  {
+    "icerik_ismi": "📺 Ekstra Spor - Spor Kanalı",
+    "link": "https://www.ekstratv.com.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/f/f9/EkstraTV.png"
+  },
+  {
+    "icerik_ismi": "📺 BeIN Sports Türk - Spor",
+    "link": "https://www.beinsports.com.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/0/05/BeIN_SPORTS_TURKEY_LOGO.png"
+  },
+  {
+    "icerik_ismi": "📺 D Smart - Kablolu TV",
+    "link": "https://www.dsmart.com.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/f/f5/DSMART_Logo.png"
+  },
+  {
+    "icerik_ismi": "📺 Türkmax - Film Kanalı",
+    "link": "https://www.turkmax.com.tr/",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/6/6b/Turkmax_Logo.png"
+  },
+  {
+    "icerik_ismi": "📺 AHaber - Haber Kanalı",
+    "link": "https://www.ahaber.com.tr/canli",
+    "poster": "https://www.giniko.com/logos/190x110/394.png"
+  },
+  {
+    "icerik_ismi": "📺 Bloomberg HT - Finans Haberleri",
+    "link": "https://www.bloomberght.com/canli",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/bloomberg_logo.png"
+  },
+  {
+    "icerik_ismi": "🎬 Film Klasikleri",
+    "link": "https://www.giniko.com/watch.php?id=1473",
+    "poster": "https://www.giniko.com/logos/190x110/1473.png"
+  },
+  {
+    "icerik_ismi": "🎬 Film Deneyimi",
+    "link": "https://www.giniko.com/watch.php?id=1578",
+    "poster": "https://www.giniko.com/logos/190x110/1578.jpg"
+  },
+  {
+    "icerik_ismi": "🎬 4K Filmler",
+    "link": "https://www.giniko.com/watch.php?id=1570",
+    "poster": "https://www.giniko.com/logos/190x110/1570.jpg"
+  },
+  {
+    "icerik_ismi": "🎬 Sinema 360",
+    "link": "https://www.giniko.com/watch.php?id=1619",
+    "poster": "https://www.giniko.com/logos/190x110/1619.jpg"
+  },
+  {
+    "icerik_ismi": "🎭 Klasik Sinema Türkiye",
+    "link": "https://www.giniko.com/watch.php?id=1610",
+    "poster": "https://www.giniko.com/logos/190x110/1610.jpg"
+  },
+  {
+    "icerik_ismi": "🎭 Eski Rus Filmleri",
+    "link": "https://www.giniko.com/watch.php?id=988",
+    "poster": "https://www.giniko.com/logos/190x110/988.jpg"
+  },
+  {
+    "icerik_ismi": "🎵 Müzik Saati",
+    "link": "https://www.giniko.com/watch.php?id=966",
+    "poster": "https://www.giniko.com/logos/190x110/966.png"
+  },
+  {
+    "icerik_ismi": "🎵 Müzik Ufku",
+    "link": "https://www.giniko.com/watch.php?id=1618",
+    "poster": "https://www.giniko.com/logos/190x110/1618.png"
+  },
+  {
+    "icerik_ismi": "🎵 Gitar Rifleri",
+    "link": "https://www.giniko.com/watch.php?id=990",
+    "poster": "https://www.giniko.com/logos/190x110/990.jpg"
+  },
+  {
+    "icerik_ismi": "🎵 Müzik Ramazan",
+    "link": "https://www.giniko.com/watch.php?id=967",
+    "poster": "https://www.giniko.com/logos/190x110/967.jpg"
+  },
+  {
+    "icerik_ismi": "🎵 Noel Şarkıları",
+    "link": "https://www.giniko.com/watch.php?id=964",
+    "poster": "https://www.giniko.com/logos/190x110/964.png"
+  },
+  {
+    "icerik_ismi": "🎵 Reggaeton Müzik",
+    "link": "https://www.giniko.com/watch.php?id=1561",
+    "poster": "https://www.giniko.com/logos/190x110/1561.jpg"
+  },
+  {
+    "icerik_ismi": "🎵 K-Dance Titreşimleri",
+    "link": "https://www.giniko.com/watch.php?id=1571",
+    "poster": "https://www.giniko.com/logos/190x110/1571.jpg"
+  },
+  {
+    "icerik_ismi": "🎵 Hint Müziği",
+    "link": "https://www.giniko.com/watch.php?id=1559",
+    "poster": "https://www.giniko.com/logos/190x110/1559.jpg"
+  },
+  {
+    "icerik_ismi": "🎵 Gülüşler ve Kıkırtılar",
+    "link": "https://www.giniko.com/watch.php?id=1572",
+    "poster": "https://www.giniko.com/logos/190x110/1572.jpg"
+  },
+  {
+    "icerik_ismi": "🎵 Melodi Salonu",
+    "link": "https://www.giniko.com/watch.php?id=1614",
+    "poster": "https://www.giniko.com/logos/190x110/1614.png"
+  },
+  {
+    "icerik_ismi": "🎮 Oyun Dünyası",
+    "link": "https://www.giniko.com/watch.php?id=1595",
+    "poster": "https://www.giniko.com/logos/190x110/1595.jpg"
+  },
+  {
+    "icerik_ismi": "🎮 Oyun Ekranı",
+    "link": "https://www.giniko.com/watch.php?id=1602",
+    "poster": "https://www.giniko.com/logos/190x110/1602.png"
+  },
+  {
+    "icerik_ismi": "🎮 RedBull TV",
+    "link": "https://www.giniko.com/watch.php?id=1451",
+    "poster": "https://www.giniko.com/logos/190x110/1451.png"
+  },
+  {
+    "icerik_ismi": "📚 Eğitim - Tıbbi Öğrenme",
+    "link": "https://www.giniko.com/watch.php?id=1670",
+    "poster": "https://www.giniko.com/logos/190x110/1670.jpg"
+  },
+  {
+    "icerik_ismi": "📚 Öğrenme Kanalı",
+    "link": "https://www.giniko.com/watch.php?id=1607",
+    "poster": "https://www.giniko.com/logos/190x110/1607.jpg"
+  },
+  {
+    "icerik_ismi": "📚 PBS Tarih",
+    "link": "https://www.giniko.com/watch.php?id=1702",
+    "poster": "https://www.giniko.com/logos/190x110/1702.png"
+  },
+  {
+    "icerik_ismi": "📚 PBS Çocuklar",
+    "link": "https://www.giniko.com/watch.php?id=1691",
+    "poster": "https://www.giniko.com/logos/190x110/1691.png"
+  },
+  {
+    "icerik_ismi": "👶 Çocuk Kanalı - Masya ve Ayı",
+    "link": "https://www.giniko.com/watch.php?id=1626",
+    "poster": "https://www.giniko.com/logos/190x110/1626.jpg"
+  },
+  {
+    "icerik_ismi": "👶 Çocuk Kanalı - Detskiy Mult",
+    "link": "https://www.giniko.com/watch.php?id=1627",
+    "poster": "https://www.giniko.com/logos/190x110/1627.png"
+  },
+  {
+    "icerik_ismi": "👶 Çocuk Kanalı - Çocuğun Gülüşü",
+    "link": "https://www.giniko.com/watch.php?id=289",
+    "poster": "https://www.giniko.com/logos/190x110/289.jpg"
+  },
+  {
+    "icerik_ismi": "👶 Çocuk Kanalı - Kids TV Eğlencesi",
+    "link": "https://www.giniko.com/watch.php?id=1560",
+    "poster": "https://www.giniko.com/logos/190x110/1560.jpg"
+  },
+  {
+    "icerik_ismi": "🐾 Evcil Hayvan Cenneti",
+    "link": "https://www.giniko.com/watch.php?id=1582",
+    "poster": "https://www.giniko.com/logos/190x110/1582.jpg"
+  },
+  {
+    "icerik_ismi": "🐾 EvcilHayvan TV",
+    "link": "https://www.giniko.com/watch.php?id=1585",
+    "poster": "https://www.giniko.com/logos/190x110/1585.jpg"
+  },
+  {
+    "icerik_ismi": "🍳 El Sanatları Yapısı",
+    "link": "https://www.giniko.com/watch.php?id=1612",
+    "poster": "https://www.giniko.com/logos/190x110/1612.jpg"
+  },
+  {
+    "icerik_ismi": "💄 Moda ve Stil",
+    "link": "https://www.giniko.com/watch.php?id=1625",
+    "poster": "https://www.giniko.com/logos/190x110/1625.jpg"
+  },
+  {
+    "icerik_ismi": "💄 Güzellik Dalgası",
+    "link": "https://www.giniko.com/watch.php?id=1623",
+    "poster": "https://www.giniko.com/logos/190x110/1623.png"
+  },
+  {
+    "icerik_ismi": "💄 Stil Laboratuvarı",
+    "link": "https://www.giniko.com/watch.php?id=1586",
+    "poster": "https://www.giniko.com/logos/190x110/1586.jpg"
+  },
+  {
+    "icerik_ismi": "💄 GlamAura",
+    "link": "https://www.giniko.com/watch.php?id=1605",
+    "poster": "https://www.giniko.com/logos/190x110/1605.png"
+  },
+  {
+    "icerik_ismi": "📰 Avrupa Haberleri",
+    "link": "https://www.giniko.com/watch.php?id=948",
+    "poster": "https://www.giniko.com/logos/190x110/948.jpg"
+  },
+  {
+    "icerik_ismi": "📰 EuroNews Türkçe",
+    "link": "https://www.giniko.com/watch.php?id=675",
+    "poster": "https://www.giniko.com/logos/190x110/675.jpg"
+  },
+  {
+    "icerik_ismi": "📰 Mevcut Zaman TV",
+    "link": "https://www.giniko.com/watch.php?id=1524",
+    "poster": "https://www.giniko.com/logos/190x110/1524.png"
+  },
+  {
+    "icerik_ismi": "📰 Palitra Haberleri",
+    "link": "https://www.giniko.com/watch.php?id=1516",
+    "poster": "https://www.giniko.com/logos/190x110/1516.jpg"
+  },
+  {
+    "icerik_ismi": "🕌 Kuran Şerifleri",
+    "link": "https://www.giniko.com/watch.php?id=327",
+    "poster": "https://www.giniko.com/logos/190x110/327.gif"
+  },
+  {
+    "icerik_ismi": "🕌 Dini Sohbetler",
+    "link": "https://www.giniko.com/watch.php?id=331",
+    "poster": "https://www.giniko.com/logos/190x110/331.jpg"
+  },
+  {
+    "icerik_ismi": "🌍 Uluslararası - Basın Televiz.",
+    "link": "https://www.giniko.com/watch.php?id=1483",
+    "poster": "https://www.giniko.com/logos/190x110/1483.png"
+  },
+  {
+    "icerik_ismi": "🌍 Uluslararası - Mavi Karadeniz",
+    "link": "https://www.giniko.com/watch.php?id=959",
+    "poster": "https://www.giniko.com/logos/190x110/959.png"
+  },
+  {
+    "icerik_ismi": "🌍 Uluslararası - Gürcistan Tarihi",
+    "link": "https://www.giniko.com/watch.php?id=1556",
+    "poster": "https://www.giniko.com/logos/190x110/1556.jpg"
+  },
+  {
+    "icerik_ismi": "🌍 Uluslararası - Orta Doğu Kanalı",
+    "link": "https://www.giniko.com/watch.php?id=1504",
+    "poster": "https://www.giniko.com/logos/190x110/1504.png"
+  },
+  {
+    "icerik_ismi": "🌍 Uluslararası - Hispan TV",
+    "link": "https://www.giniko.com/watch.php?id=1028",
+    "poster": "https://www.giniko.com/logos/190x110/1028.jpg"
+  },
+  {
+    "icerik_ismi": "🌍 Uluslararası - İran Haber Ağı",
+    "link": "https://www.giniko.com/watch.php?id=263",
+    "poster": "https://www.giniko.com/logos/190x110/263.png"
+  },
+  {
+    "icerik_ismi": "🌍 Uluslararası - Japonya NHK",
+    "link": "https://www.giniko.com/watch.php?id=1715",
+    "poster": "https://www.giniko.com/logos/190x110/1715.png"
+  },
+  {
+    "icerik_ismi": "🌍 Uluslararası - Avustralya ABC",
+    "link": "https://www.giniko.com/watch.php?id=1688",
+    "poster": "https://www.giniko.com/logos/190x110/1688.png"
+  },
+  {
+    "icerik_ismi": "🎬 Sinematik Sohbetler",
+    "link": "https://www.giniko.com/watch.php?id=1576",
+    "poster": "https://www.giniko.com/logos/190x110/1576.jpg"
+  },
+  {
+    "icerik_ismi": "🎬 Kino Arşivi",
+    "link": "https://www.giniko.com/watch.php?id=1591",
+    "poster": "https://www.giniko.com/logos/190x110/1591.jpg"
+  },
+  {
+    "icerik_ismi": "🎬 Antik Sinemalar",
+    "link": "https://www.giniko.com/watch.php?id=1659",
+    "poster": "https://www.giniko.com/logos/190x110/1659.jpg"
+  },
+  {
+    "icerik_ismi": "🎭 Georgialı Müzik",
+    "link": "https://www.giniko.com/watch.php?id=1609",
+    "poster": "https://www.giniko.com/logos/190x110/1609.png"
+  },
+  {
+    "icerik_ismi": "🎭 Georgialı Filmler",
+    "link": "https://www.giniko.com/watch.php?id=1606",
+    "poster": "https://www.giniko.com/logos/190x110/1606.jpg"
+  },
+  {
+    "icerik_ismi": "🎪 Sanat ve Dans",
+    "link": "https://www.giniko.com/watch.php?id=1608",
+    "poster": "https://www.giniko.com/logos/190x110/1608.png"
+  },
+  {
+    "icerik_ismi": "🎪 Komedi Kanalı",
+    "link": "https://www.giniko.com/watch.php?id=276",
+    "poster": "https://www.giniko.com/logos/190x110/276.png"
+  },
+  {
+    "icerik_ismi": "🎪 Gülme ve Kahkaha",
+    "link": "https://www.giniko.com/watch.php?id=1572",
+    "poster": "https://www.giniko.com/logos/190x110/1572.jpg"
+  },
+  {
+    "icerik_ismi": "🌟 Aksiyon Filmleri",
+    "link": "https://www.giniko.com/watch.php?id=1615",
+    "poster": "https://www.giniko.com/logos/190x110/1615.jpg"
+  },
+  {
+    "icerik_ismi": "🌟 Film Evi Etkinlik",
+    "link": "https://www.giniko.com/watch.php?id=1625",
+    "poster": "https://www.giniko.com/logos/190x110/1625.jpg"
+  },
+  {
+    "icerik_ismi": "🌟 Gerginlik Filmleri",
+    "link": "https://www.giniko.com/watch.php?id=1620",
+    "poster": "https://www.giniko.com/logos/190x110/1620.png"
+  }
+]
