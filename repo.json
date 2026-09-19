@@ -1,6 +1,10 @@
 {
-  "name": "Sonuvar CloudStream Reposu",
-  "icon": "https://raw.githubusercontent.com/sonuvare2/cs-template/refs/heads/main/icon.png",
-  "description": "Canlı spor, ulusal kanallar ve özel içerik deposu.",
-  "manifestUrl": "https://raw.githubusercontent.com/sonuvare2/cs-template/refs/heads/main/plugins.json"
+  "name": "Orhan Özel Multimedya Reposu",
+  "description": "Türkçe canlı TV, spor, dizi ve film kaynakları",
+  "icon": "",
+  "manifests": [
+    "https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/manifest.json",
+    "https://raw.githubusercontent.com/maarrem/cs-Kekik/master/manifest.json"
+  ],
+  "author": "Orhan"
 }
